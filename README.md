@@ -48,6 +48,8 @@ This project was built using a modern front-end stack:
 
 ---
 
+---
+
 💡 Why This Tech Stack?
 The technology stack for this project was deliberately chosen to create a modern, high-performance, and highly interactive user experience while maintaining an excellent developer experience. Each piece of the stack serves a specific, crucial purpose:
 React (with Vite)
@@ -67,6 +69,8 @@ Page Transitions: Creating smooth transitions between different views.
 Scroll-Reveal Effects: Animating elements into view as the user scrolls.
 Staggered Animations: Animating list items (like room cards) in sequence.
 Micro-interactions: Adding satisfying hover and click effects that improve the user experience.
+
+---
 
 ## ⚙️ Getting Started
 
